@@ -1,1 +1,1 @@
-My first readme
+Am gonna be a coding master
